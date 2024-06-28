@@ -15,8 +15,6 @@
     "/>
     <img align="center" alt="ORACLE"src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white
     "/>
-    <img align="center" alt="POWER BI"src="https://img.shields.io/badge/PoweR BI-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white
-    "/>
     <img align="center" alt="EXCEL"src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
     <img align="center" alt="GoogleSheets"src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white
     "/>
